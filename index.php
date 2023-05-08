@@ -11,4 +11,5 @@
     <h4> This is Nika Niksefat a coder at UCI</h4>
   </body>
 </html>
+I'm going to clean up my index.html file
 
